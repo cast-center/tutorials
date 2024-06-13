@@ -1,3 +1,3 @@
 # tutorials
 
-This repository is for the general tutorials across various CAST tools. For tool-specific materials, we may want to create additional repositories.
+Folders in this repository contain tutorials that demonstrate the use of tools and methodologies developed CaST Center investigators. 
